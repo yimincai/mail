@@ -1,5 +1,5 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<script>document.location.href="http://localhost:8080/web_war_exploded/mailSender";</script>
+<script>document.location.href="http://mail.nemu.edu.tw/mail/mailSender";</script>
 <html>
   <head>
     <title>Mail Sender</title>
